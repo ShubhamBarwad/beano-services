@@ -1,0 +1,1 @@
+CREATE SCHEMA 'beano_db';
