@@ -6,7 +6,6 @@ import java.util.stream.Collectors;
 
 import org.springframework.beans.BeanUtils;
 import org.springframework.stereotype.Service;
-import org.springframework.web.bind.annotation.GetMapping;
 
 import com.beanoapp.beanoservice.entity.PostEntity;
 import com.beanoapp.beanoservice.model.Post;

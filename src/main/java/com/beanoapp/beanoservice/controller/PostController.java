@@ -13,8 +13,6 @@ import org.springframework.web.bind.annotation.RestController;
 import com.beanoapp.beanoservice.model.Post;
 import com.beanoapp.beanoservice.service.PostService;
 
-import lombok.Builder;
-
 
 @CrossOrigin("http://localhost:3000")
 @RestController
